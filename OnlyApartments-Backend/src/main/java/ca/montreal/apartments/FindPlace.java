@@ -1,4 +1,4 @@
-package api;
+package ca.montreal.apartments;
 
 import org.json.JSONObject;
 
